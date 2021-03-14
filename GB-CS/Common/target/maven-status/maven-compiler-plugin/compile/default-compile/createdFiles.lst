@@ -1,0 +1,5 @@
+messages/CommandMessages.class
+messages/Message.class
+messages/AuthMessages.class
+messages/FileMessage.class
+messages/Commands.class
